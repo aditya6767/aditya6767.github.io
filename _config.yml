@@ -18,15 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Aditya's blog
+title: "Aditya's blog"
+author: "Aditya Jaiswal"
 email: aditya.jaiswal6767@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, I am Aditya an AI enthusiast. I write about ML, MLOps, CUDA and operations.
+  Everything about Software
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: aditya6767.github.io  
 markdown: kramdown
-url: "/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://aditya6767.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  aditya6767
+linkedin_username: aditya6767
 permalink: none
 
 
